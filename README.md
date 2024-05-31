@@ -2,7 +2,7 @@
 
 ### Aspiring Machine Learning Engineer
 
-I'm a structural engineer transitioning to a career in machine learning. Currently, I'm pursuing a master's degree in data science and machine learning. My background in structural engineering has provided me with a strong foundation in problem-solving and analytical thinking, which I'm now applying to the exciting field of machine learning.
+I'm a structural engineer transitioning to a career in machine learning. Currently, I'm pursuing a master's degree in data science and machine learning. My background in structural engineering has provided me with a strong foundation in problem-solving and analytical thinking, which I'm now applying to this exciting field.
 
 ## 📚 Education
 - Master's in Data Science and Machine Learning (c)
