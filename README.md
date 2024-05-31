@@ -32,6 +32,5 @@ Here are a few highlights of my coursework repositories:
 ## 📫 Contact
 - **Email:** [juanmanuelvape@gmail.com](mailto:juanmanuelvape@gmail.com)
 - **LinkedIn:** [Profile](https://uy.linkedin.com/in/juan-manuel-varela-1125b2190)
-- **GitHub:** [Profile](https://github.com/juanmavar)
 
 Feel free to check out my repositories and connect with me.
